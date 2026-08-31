@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/ramassha/skills-build-applications-w-copilot-agent-mode/issues"
   },
-  "homepage": "https://github.com/ramassha/skills-build-applications-w-copilot-agent-mode#readme"
+  "homepage": "https://github.com/ramassha/skills-build-applications-w-copilot-agent-mode#readme",
+  "devDependencies": {}
 }
