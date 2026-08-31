@@ -1,6 +1,8 @@
 import { useEffect, useState } from 'react';
 import { fetchFromApi } from '../api';
 
+// API endpoint: https://${VITE_CODESPACE_NAME}-8000.app.github.dev/api/users
+
 export default function Users() {
   const [users, setUsers] = useState([]);
   const [loading, setLoading] = useState(true);
